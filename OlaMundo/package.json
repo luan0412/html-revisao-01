@@ -1,0 +1,23 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto usando npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan0412/html-revisao-01.git"
+  },
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "lua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luan0412/html-revisao-01/issues"
+  },
+  "homepage": "https://github.com/luan0412/html-revisao-01#readme"
+}

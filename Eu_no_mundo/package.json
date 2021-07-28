@@ -1,0 +1,25 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Como eu vejo o Mundo daqui um ano",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luan0412/html-revisao-01.git"
+  },
+  "keywords": [
+    "Mundo",
+    "daqui",
+    "um",
+    "ano"
+  ],
+  "author": "Luan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luan0412/html-revisao-01/issues"
+  },
+  "homepage": "https://github.com/luan0412/html-revisao-01#readme"
+}
